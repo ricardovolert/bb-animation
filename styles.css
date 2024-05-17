@@ -1,0 +1,26 @@
+body{
+    color: blue;
+    background-color: yellow;
+}
+
+#bb-animacao {
+    font-size: 3em;
+    display: flex;
+    gap: 5px;
+}
+
+#bb-animacao span {
+    transition: all 0.5s;
+}
+
+.font-1 { font-family: Arial, sans-serif; }
+.font-2 { font-family: 'Times New Roman', Times, serif; }
+.font-3 { font-family: 'Courier New', Courier, monospace; }
+.font-4 { font-family: 'Georgia', serif; }
+.font-5 { font-family: 'Verdana', sans-serif; }
+.font-6 { font-family: 'Tahoma', sans-serif; }
+.font-7 { font-family: 'Comic Sans MS', cursive, sans-serif; }
+
+.normal { font-style: normal; font-weight: normal; }
+.bold { font-style: normal; font-weight: bold; }
+.italic { font-style: italic; font-weight: normal; }
